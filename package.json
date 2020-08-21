@@ -14,6 +14,7 @@
     "availity-reactstrap-validation": "2.6.1",
     "axios": "0.19.2",
     "bootstrap": "4.4.1",
+    "create-component": "file:../component",
     "loaders.css": "0.1.2",
     "lodash": "4.17.15",
     "moment": "2.24.0",
@@ -36,7 +37,8 @@
     "redux-thunk": "2.3.0",
     "sonar-scanner": "3.1.0",
     "tslib": "1.11.1",
-    "uuid": "7.0.3"
+    "uuid": "7.0.3",
+    "@material-ui/core": "4.11.0"
   },
   "devDependencies": {
     "@openapitools/openapi-generator-cli": "1.0.13-4.3.1",
