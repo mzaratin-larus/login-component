@@ -55,14 +55,14 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.1",
-    "typescript": "^3.7.5",
-    "create-component": "file:../component"
+    "typescript": "^3.7.5"
   },
   "files": [
     "dist"
   ],
   "dependencies": {
     "@material-ui/core": "4.11.0",
-    "@material-ui/icons": "4.9.1"
+    "@material-ui/icons": "4.9.1",
+    "create-component": "file:../component"
   }
 }
