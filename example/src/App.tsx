@@ -1,7 +1,6 @@
 import React from 'react'
 
-import { CreateElement } from 'component'
-import 'component/dist/index.css'
+import { CreateElement } from 'create-component'
 
 const App = () => {
   const componentToCreate = {
